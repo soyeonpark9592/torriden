@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/torriden/static/css/main.c6d9c541.css",
+    "main.js": "/torriden/static/js/main.10febc46.js",
+    "static/js/787.3ea87880.chunk.js": "/torriden/static/js/787.3ea87880.chunk.js",
+    "static/media/AnyConv.com__NanumSquareR.woff": "/torriden/static/media/AnyConv.com__NanumSquareR.20f531de5e8d00cc4c15.woff",
+    "static/media/greenbanner.jpeg": "/torriden/static/media/greenbanner.6f9193bb31df9581d030.jpeg",
+    "index.html": "/torriden/index.html",
+    "main.c6d9c541.css.map": "/torriden/static/css/main.c6d9c541.css.map",
+    "main.10febc46.js.map": "/torriden/static/js/main.10febc46.js.map",
+    "787.3ea87880.chunk.js.map": "/torriden/static/js/787.3ea87880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d9c541.css",
+    "static/js/main.10febc46.js"
+  ]
+}
